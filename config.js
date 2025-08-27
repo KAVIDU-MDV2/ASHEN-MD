@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "your session id",
+SESSION_ID: process.env.SESSION_ID || "Xk5FRJiK#X06IqqjjPqFD5ZORkq_0i9Pkx3GlW190P0kOKc2y9TE",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -23,7 +23,7 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/sn20tl.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/d0SmHXZq/3eaf6540f10b675c.jpg",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -37,13 +37,13 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "94706042889",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "94756194771",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "HASHAN-MD",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© POWERED BY HASHAN-MD*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/sn20tl.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/d0SmHXZq/3eaf6540f10b675c.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> ©POWERED BY HASHAN-MD*",
 // add alive msg here 
