@@ -1,1 +1,85 @@
-const _0x12eb68=_0x4b1b;(function(_0x40d074,_0x370ce4){const _0x5295c2=_0x4b1b,_0x2c6aa5=_0x40d074();while(!![]){try{const _0x38a237=parseInt(_0x5295c2(0x83))/0x1+parseInt(_0x5295c2(0x88))/0x2+parseInt(_0x5295c2(0x81))/0x3*(-parseInt(_0x5295c2(0x8f))/0x4)+parseInt(_0x5295c2(0x8e))/0x5+parseInt(_0x5295c2(0x97))/0x6*(parseInt(_0x5295c2(0x78))/0x7)+parseInt(_0x5295c2(0x7e))/0x8*(parseInt(_0x5295c2(0x7b))/0x9)+-parseInt(_0x5295c2(0x95))/0xa;if(_0x38a237===_0x370ce4)break;else _0x2c6aa5['push'](_0x2c6aa5['shift']());}catch(_0x540302){_0x2c6aa5['push'](_0x2c6aa5['shift']());}}}(_0x2dce,0x46b3c));function _0x2dce(){const _0x474e65=['12SBDGkm','sendMessage','405078pQuPSI','\x0a*_HASHAN-MD\x20COMMAND\x20LIST\x20⚡_*\x0a\x0a>\x20*🕊️\x20NAME\x20BOT\x20:\x20HASHAN-MD*\x0a>\x20*🕊️\x20VERSION\x20:\x201.0*\x0a>\x20*🕊️\x20PREFIX\x20:\x20[.]*\x0a>\x20*🕊️\x20OWNER\x20:\x20HASHIYA\x20TECH*\x0a>\x20*🕊️\x20RAM\x20:\x20128GB\x20/\x202453MB*\x0a\x0a\x0a┌────────────────···▸*\x0a*│╭─────────────···▸*\x0a*┴│▸*\x20\x0a*◈│▸*\x20*1.\x20DOWNLOAD\x20MENU*\x0a*◈│▸*\x20*2.\x20SEARCH\x20MENU*\x20\x0a*◈│▸*\x20*3.\x20AI\x20MENU*\x0a*◈│▸*\x20*4.\x20OWNER\x20MENU*\x0a*◈│▸*\x20*5.\x20GROUP\x20MENU*\x0a*◈│▸*\x20*6.\x20INFO\x20MENU*\x0a*◈│▸*\x20*7.\x20CONVERTER\x20MENU*\x0a*◈│▸*\x20*8.\x20RANDOM\x20MENU*\x0a*◈│▸*\x20*9.\x20WALLPAPERS\x20MENU*\x0a*◈│▸*\x20*10.\x20OTHER\x20MENU*\x0a*┬│▸*\x0a*│╰────────────···▸▸*\x0a*└────────────────···▸*\x0a\x0a>\x20©POWERD\x20BY\x20HASHAN-MD\x0a','\x0a*╭────❒⁠⁠⁠⁠*\x20*🔎\x20SEARCH-MENU\x20🔍*\x20*❒⁠⁠⁠⁠*\x20\x0a*┋*\x20*.ANIME*\x0a*┋*\x20*.COUPLEPP*\x0a*┋*\x20*.IMG*\x0a*┋*\x20*.ANIMEGIRL1*\x0a*┋*\x20*.AMIMEGIRL2*\x0a*┋*\x20*.ANIMEGIRL3*\x0a*┋*\x20*.ANIMEGIRL4*\x0a*╰───────────────────❒*\x0a\x0a>\x20©POWERED\x20BY\x20HASHAN-MD\x0a','*❌\x20Invalid\x20option.\x20Please\x20enter\x20a\x20valid\x20number\x20(1-10)*','\x0a*╭────❒⁠⁠⁠⁠*\x20*📥\x20DOWNLOADER-MENU\x20📥*\x20*❒⁠⁠⁠⁠*\x20\x0a*┋*\x20*.FB*\x0a*┋*\x20*.SONG*\x0a*┋*\x20*.VIDEO*\x0a*┋*\x20*.LOGO*\x0a*┋*\x20*.ANIME*\x0a*┋*\x20*.ANIMEGIRL1*\x0a*┋*\x20*.ANIMEGIRL2*\x0a*┋*\x20*.ANIMEGIRL3*\x0a*┋*\x20*.ANIMEGIRL4*\x0a*╰───────────────────❒*\x0a\x0a>\x20©POWERED\x20BY\x20HASHAN-MD\x0a','481324VuzAol','\x0a*╭────❒⁠⁠⁠⁠*\x20*👥\x20GROUP-MENU\x20👥*\x20*❒⁠⁠⁠⁠*\x20\x0a*┋*\x20*.REMOVE*\x0a*┋*\x20*.DELETE*\x0a*┋*\x20*.ADD*\x0a*┋*\x20*.KICK*\x0a*┋*\x20*.MUTE*\x0a*┋*\x20*.UNMUTE*\x0a*╰───────────────────❒*\x0a\x0a>\x20©POWERED\x20BY\x20HASHAN-MD\x0a','\x0a*╭────❒⁠⁠⁠⁠*\x20*👨‍💻\x20OWNER-MENU\x20👨‍💻*\x20*❒⁠⁠⁠⁠*\x20\x0a*┋*\x20*.SETTINGS*\x0a*┋*\x20*.OWNER*\x0a*┋*\x20*.SYSTEM*\x0a*┋*\x20*.UNBLOCK*\x0a*┋*\x20*.SETPP*\x0a*┋*\x20*.RESTART*\x0a*┋*\x20*.BROADCAST*\x0a*┋*\x20*.SHUTDOWN*\x0a*┋*\x20*.VV*\x0a*┋*\x20*.ENV*\x0a*╰───────────────────❒*\x0a\x0a>\x20©POWERED\x20BY\x20HASHAN-MD\x0a','trim','extendedTextMessage','text','2620165jjqEeq','47612VxRcwT','panel','main','\x0a*╭────❒⁠⁠⁠⁠*\x20*🎡\x20CONVERTER-MENU\x20🎡*\x20*❒⁠⁠⁠⁠*\x20\x0a*┋*\x20*.STICKER*\x0a*┋*\x20*.LOGO*\x0a*╰───────────────────❒*\x0a\x0a>\x20©POWERED\x20BY\x20HASHAN-MD\x0a','\x0a*╭────❒⁠⁠⁠⁠*\x20*🌐\x20OTHER-MENU\x20🌐*\x20*❒⁠⁠⁠⁠*\x20\x0a*┋*\x20*.HACK*\x0a*╰───────────────────❒*\x0a\x0a>\x20©POWERED\x20BY\x20HASHAN-MD\x0a','\x0a*╭────❒⁠⁠⁠⁠*\x20*🧠\x20AI-MENU\x20🧠*\x20*❒⁠⁠⁠⁠*\x20\x0a*┋*\x20*.AI*\x0a*┋*\x20*.DEEPSEEK*\x0a*┋*\x20*.OPENAI*\x0a*┋*\x20*.AIIMG*\x0a*┋*\x20*.GPT*\x0a*╰───────────────────❒*\x0a\x0a>\x20©POWERED\x20BY\x20HASHAN-MD\x0a','13297130XubFTP','stanzaId','2934ZIqouZ','message','messages.upsert','commands','\x0a*╭────❒⁠⁠⁠⁠*\x20*📃\x20INFO-MENU\x20📃*\x20*❒⁠⁠⁠⁠*\x20\x0a*┋*\x20*.MENU*\x0a*┋*\x20*.ALIVE*\x0a*┋*\x20*.SYSTEM*\x0a*┋*\x20*.PING*\x0a*┋*\x20*.ANIME*\x0a*┋*\x20*.PING1*\x0a*┋*\x20*.PING2*\x0a*┋*\x20*.PING3*\x0a*┋*\x20*.PING4*\x0a*┋*\x20*.ALIVE2*\x0a*╰───────────────────❒*\x0a\x0a>\x20©POWERED\x20BY\x20HASHAN-MD\x0a','*⚠\x20An\x20error\x20occurred:\x20','බොට්\x20විධාන\x20ලැයිස්තුව\x20ලබා\x20ගන්න','key','1246JjmjCl','../command','contextInfo','615159JZpbuz','menu','messages','48frqSkd','error','../config'];_0x2dce=function(){return _0x474e65;};return _0x2dce();}const config=require(_0x12eb68(0x80)),{cmd,commands}=require(_0x12eb68(0x79)),os=require('os'),{runtime}=require('../lib/functions'),imageUrl='https://files.catbox.moe/3sd6up.jpg';function _0x4b1b(_0xd768db,_0xb0d5d6){const _0x2dceba=_0x2dce();return _0x4b1b=function(_0x4b1bdb,_0x4dd14d){_0x4b1bdb=_0x4b1bdb-0x73;let _0x3c67e6=_0x2dceba[_0x4b1bdb];return _0x3c67e6;},_0x4b1b(_0xd768db,_0xb0d5d6);}cmd({'pattern':_0x12eb68(0x7c),'react':'🗿','alias':[_0x12eb68(0x90),_0x12eb68(0x73)],'desc':_0x12eb68(0x76),'category':_0x12eb68(0x91),'use':'.menu','filename':__filename},async(_0x4db7a9,_0x244b29,_0x1971c0,{from:_0x56a5b6,quoted:_0x349360,pushname:_0x4e8933,reply:_0x561add})=>{const _0xbbda62=_0x12eb68;try{const _0x2e3762=_0xbbda62(0x84),_0x44e890=await _0x4db7a9[_0xbbda62(0x82)](_0x56a5b6,{'image':{'url':imageUrl},'caption':_0x2e3762,'contextInfo':{'forwardingScore':0x3e7,'isForwarded':!![]}},{'quoted':_0x244b29});_0x4db7a9['ev']['on'](_0xbbda62(0x99),async _0x97c1c5=>{const _0x2066bf=_0xbbda62,_0x200203=_0x97c1c5[_0x2066bf(0x7d)][0x0];if(!_0x200203[_0x2066bf(0x98)]||!_0x200203[_0x2066bf(0x98)][_0x2066bf(0x8c)])return;const _0x5dc837=_0x200203[_0x2066bf(0x98)][_0x2066bf(0x8c)][_0x2066bf(0x8d)][_0x2066bf(0x8b)]();if(_0x200203[_0x2066bf(0x98)][_0x2066bf(0x8c)][_0x2066bf(0x7a)]&&_0x200203['message'][_0x2066bf(0x8c)][_0x2066bf(0x7a)][_0x2066bf(0x96)]===_0x44e890[_0x2066bf(0x77)]['id']){let _0xae7cc6;switch(_0x5dc837){case'1':_0xae7cc6=_0x2066bf(0x87);break;case'2':_0xae7cc6=_0x2066bf(0x85);break;case'3':_0xae7cc6=_0x2066bf(0x94);break;case'4':_0xae7cc6=_0x2066bf(0x8a);break;case'5':_0xae7cc6=_0x2066bf(0x89);break;case'6':_0xae7cc6=_0x2066bf(0x74);break;case'7':_0xae7cc6=_0x2066bf(0x92);break;case'8':_0xae7cc6='\x0a*╭────❒⁠⁠⁠⁠*\x20*⛱️\x20RANDOM-MENU\x20⛱️*\x20*❒⁠⁠⁠⁠*\x20\x0a*┋*\x20*.ᴀɴɪᴍᴇ*\x0a*┋*\x20*.ᴀɴɪᴍᴇɢɪʀʟ*\x0a*┋*\x20*.ᴀɴɪᴍᴇɢɪʀʟ1*\x0a*┋*\x20*.ᴀɴɪᴍᴇɢɪʀʟ2*\x0a*┋*\x20*.ᴀɴɪᴍᴇɢɪʀʟ3*\x0a*┋*\x20*.ᴀɴɪᴍᴇɢɪʀʟ4*\x0a*┋*\x20*.ᴀɴɪᴍᴇɢɪʀʟ5*\x0a*╰───────────────────❒*\x0a\x0a>\x20©POWERED\x20BY\x20HASHAN-MD\x0a';break;case'9':_0xae7cc6='\x0a*╭────❒⁠⁠⁠⁠*\x20*🏜️\x20WALLPAPERS-MENU\x20🏜️*\x20*❒⁠⁠⁠⁠*\x20\x0a*┋*\x20*.ɪᴍɢ*\x0a*╰───────────────────❒*\x0a\x0a>\x20©POWERED\x20BY\x20HASHAN-MD\x0a';break;case'10':_0xae7cc6=_0x2066bf(0x93);break;default:_0xae7cc6=_0x2066bf(0x86);}await _0x4db7a9[_0x2066bf(0x82)](_0x56a5b6,{'text':_0xae7cc6},{'quoted':_0x244b29});}});}catch(_0x288300){console[_0xbbda62(0x7f)](_0x288300),_0x561add(_0xbbda62(0x75)+_0x288300[_0xbbda62(0x98)]+'*');}});
+const {
+  cmd,
+  commands
+} = require("../command");
+cmd({
+  'pattern': "menu",
+  'react': '🗿',
+  'alias': ["panel", "commands"],
+  'desc': "බොට් විධාන ලැයිස්තුව ලබා ගන්න",
+  'category': "main",
+  'use': '.menu',
+  'filename': __filename
+}, async (_0x4db7a9, _0x244b29, _0x1971c0, {
+  from: _0x56a5b6,
+  quoted: _0x349360,
+  pushname: _0x4e8933,
+  reply: _0x561add
+}) => {
+  try {
+    const _0x44e890 = await _0x4db7a9.sendMessage(_0x56a5b6, {
+      'image': {
+        'url': 'https://files.catbox.moe/3sd6up.jpg'
+      },
+      'caption': "\n*_HASHAN-MD COMMAND LIST ⚡_*\n\n> *🕊️ NAME BOT : HASHAN-MD*\n> *🕊️ VERSION : 1.0*\n> *🕊️ PREFIX : [.]*\n> *🕊️ OWNER : HASHIYA TECH*\n> *🕊️ RAM : 128GB / 2453MB*\n\n\n┌────────────────···▸*\n*│╭─────────────···▸*\n*┴│▸* \n*◈│▸* *1. DOWNLOAD MENU*\n*◈│▸* *2. SEARCH MENU* \n*◈│▸* *3. AI MENU*\n*◈│▸* *4. OWNER MENU*\n*◈│▸* *5. GROUP MENU*\n*◈│▸* *6. INFO MENU*\n*◈│▸* *7. CONVERTER MENU*\n*◈│▸* *8. RANDOM MENU*\n*◈│▸* *9. WALLPAPERS MENU*\n*◈│▸* *10. OTHER MENU*\n*┬│▸*\n*│╰────────────···▸▸*\n*└────────────────···▸*\n\n> ©POWERD BY HASHAN-MD\n",
+      'contextInfo': {
+        'forwardingScore': 0x3e7,
+        'isForwarded': true
+      }
+    }, {
+      'quoted': _0x244b29
+    });
+    _0x4db7a9.ev.on("messages.upsert", async _0x97c1c5 => {
+      const _0x200203 = _0x97c1c5.messages[0x0];
+      if (!_0x200203.message || !_0x200203.message.extendedTextMessage) {
+        return;
+      }
+      const _0x5dc837 = _0x200203.message.extendedTextMessage.text.trim();
+      if (_0x200203.message.extendedTextMessage.contextInfo && _0x200203.message.extendedTextMessage.contextInfo.stanzaId === _0x44e890.key.id) {
+        let _0xae7cc6;
+        switch (_0x5dc837) {
+          case '1':
+            _0xae7cc6 = "\n*╭────❒⁠⁠⁠⁠* *📥 DOWNLOADER-MENU 📥* *❒⁠⁠⁠⁠* \n*┋* *.FB*\n*┋* *.SONG*\n*┋* *.VIDEO*\n*┋* *.LOGO*\n*┋* *.ANIME*\n*┋* *.ANIMEGIRL1*\n*┋* *.ANIMEGIRL2*\n*┋* *.ANIMEGIRL3*\n*┋* *.ANIMEGIRL4*\n*╰───────────────────❒*\n\n> ©POWERED BY HASHAN-MD\n";
+            break;
+          case '2':
+            _0xae7cc6 = "\n*╭────❒⁠⁠⁠⁠* *🔎 SEARCH-MENU 🔍* *❒⁠⁠⁠⁠* \n*┋* *.ANIME*\n*┋* *.COUPLEPP*\n*┋* *.IMG*\n*┋* *.ANIMEGIRL1*\n*┋* *.AMIMEGIRL2*\n*┋* *.ANIMEGIRL3*\n*┋* *.ANIMEGIRL4*\n*╰───────────────────❒*\n\n> ©POWERED BY HASHAN-MD\n";
+            break;
+          case '3':
+            _0xae7cc6 = "\n*╭────❒⁠⁠⁠⁠* *🧠 AI-MENU 🧠* *❒⁠⁠⁠⁠* \n*┋* *.AI*\n*┋* *.DEEPSEEK*\n*┋* *.OPENAI*\n*┋* *.AIIMG*\n*┋* *.GPT*\n*╰───────────────────❒*\n\n> ©POWERED BY HASHAN-MD\n";
+            break;
+          case '4':
+            _0xae7cc6 = "\n*╭────❒⁠⁠⁠⁠* *👨‍💻 OWNER-MENU 👨‍💻* *❒⁠⁠⁠⁠* \n*┋* *.SETTINGS*\n*┋* *.OWNER*\n*┋* *.SYSTEM*\n*┋* *.UNBLOCK*\n*┋* *.SETPP*\n*┋* *.RESTART*\n*┋* *.BROADCAST*\n*┋* *.SHUTDOWN*\n*┋* *.VV*\n*┋* *.ENV*\n*╰───────────────────❒*\n\n> ©POWERED BY HASHAN-MD\n";
+            break;
+          case '5':
+            _0xae7cc6 = "\n*╭────❒⁠⁠⁠⁠* *👥 GROUP-MENU 👥* *❒⁠⁠⁠⁠* \n*┋* *.REMOVE*\n*┋* *.DELETE*\n*┋* *.ADD*\n*┋* *.KICK*\n*┋* *.MUTE*\n*┋* *.UNMUTE*\n*╰───────────────────❒*\n\n> ©POWERED BY HASHAN-MD\n";
+            break;
+          case '6':
+            _0xae7cc6 = "\n*╭────❒⁠⁠⁠⁠* *📃 INFO-MENU 📃* *❒⁠⁠⁠⁠* \n*┋* *.MENU*\n*┋* *.ALIVE*\n*┋* *.SYSTEM*\n*┋* *.PING*\n*┋* *.ANIME*\n*┋* *.PING1*\n*┋* *.PING2*\n*┋* *.PING3*\n*┋* *.PING4*\n*┋* *.ALIVE2*\n*╰───────────────────❒*\n\n> ©POWERED BY HASHAN-MD\n";
+            break;
+          case '7':
+            _0xae7cc6 = "\n*╭────❒⁠⁠⁠⁠* *🎡 CONVERTER-MENU 🎡* *❒⁠⁠⁠⁠* \n*┋* *.STICKER*\n*┋* *.LOGO*\n*╰───────────────────❒*\n\n> ©POWERED BY HASHAN-MD\n";
+            break;
+          case '8':
+            _0xae7cc6 = "\n*╭────❒⁠⁠⁠⁠* *⛱️ RANDOM-MENU ⛱️* *❒⁠⁠⁠⁠* \n*┋* *.ᴀɴɪᴍᴇ*\n*┋* *.ᴀɴɪᴍᴇɢɪʀʟ*\n*┋* *.ᴀɴɪᴍᴇɢɪʀʟ1*\n*┋* *.ᴀɴɪᴍᴇɢɪʀʟ2*\n*┋* *.ᴀɴɪᴍᴇɢɪʀʟ3*\n*┋* *.ᴀɴɪᴍᴇɢɪʀʟ4*\n*┋* *.ᴀɴɪᴍᴇɢɪʀʟ5*\n*╰───────────────────❒*\n\n> ©POWERED BY HASHAN-MD\n";
+            break;
+          case '9':
+            _0xae7cc6 = "\n*╭────❒⁠⁠⁠⁠* *🏜️ WALLPAPERS-MENU 🏜️* *❒⁠⁠⁠⁠* \n*┋* *.ɪᴍɢ*\n*╰───────────────────❒*\n\n> ©POWERED BY HASHAN-MD\n";
+            break;
+          case '10':
+            _0xae7cc6 = "\n*╭────❒⁠⁠⁠⁠* *🌐 OTHER-MENU 🌐* *❒⁠⁠⁠⁠* \n*┋* *.HACK*\n*╰───────────────────❒*\n\n> ©POWERED BY HASHAN-MD\n";
+            break;
+          default:
+            _0xae7cc6 = "*❌ Invalid option. Please enter a valid number (1-10)*";
+        }
+        await _0x4db7a9.sendMessage(_0x56a5b6, {
+          'text': _0xae7cc6
+        }, {
+          'quoted': _0x244b29
+        });
+      }
+    });
+  } catch (_0x288300) {
+    console.error(_0x288300);
+    _0x561add("*⚠ An error occurred: " + _0x288300.message + '*');
+  }
+});
