@@ -1,1 +1,132 @@
-const _0x19b217=_0x1327;(function(_0x1f31df,_0x2511d7){const _0x57412d=_0x1327,_0x1e9ee0=_0x1f31df();while(!![]){try{const _0x29a77a=parseInt(_0x57412d(0xba))/0x1+parseInt(_0x57412d(0xa2))/0x2+parseInt(_0x57412d(0x97))/0x3*(-parseInt(_0x57412d(0xb4))/0x4)+parseInt(_0x57412d(0xc7))/0x5*(-parseInt(_0x57412d(0x9f))/0x6)+-parseInt(_0x57412d(0x9c))/0x7*(parseInt(_0x57412d(0xcd))/0x8)+-parseInt(_0x57412d(0xa4))/0x9*(-parseInt(_0x57412d(0xb6))/0xa)+parseInt(_0x57412d(0xb9))/0xb;if(_0x29a77a===_0x2511d7)break;else _0x1e9ee0['push'](_0x1e9ee0['shift']());}catch(_0x3d00bd){_0x1e9ee0['push'](_0x1e9ee0['shift']());}}}(_0x1ecb,0x7c0b0));function _0x1327(_0x4cdca8,_0x3cc71f){const _0x1ecb3f=_0x1ecb();return _0x1327=function(_0x132755,_0x5a6451){_0x132755=_0x132755-0x96;let _0x46536f=_0x1ecb3f[_0x132755];return _0x46536f;},_0x1327(_0x4cdca8,_0x3cc71f);}function _0x1ecb(){const _0x2e30c0=['╭━━━〔\x20*HASHAN-MD*\x20〕━━━┈⊷\x0a┇🎼\x20*Title*\x20-\x20\x20','\x0a┇🗿\x20*Author*\x20-\x20\x20','14441fGsWDO','Failed\x20to\x20fetch\x20the\x20video.\x20Please\x20try\x20again\x20later.','length','4557822iuupAk','\x0a╰────────────────┈⊷\x0a\x0a>\x20🄿🄾🅆🄴RED\x20BY\x20HASHAN-MD\x20😈','../config','1186512lKiMWF','\x0a╰────────────────┈⊷\x0a\x0a>\x20POWERED\x20BY\x20HASHAN-MD\x20😈','1287jUupPH','song2','\x0a┇🎙️\x20*Views*\x20-\x20\x20','thumbnail','Please\x20provide\x20a\x20YouTube\x20URL\x20or\x20song\x20name.','name','\x0a┇🎈\x20*Views*\x20-\x20\x20','author','\x0a┇💐\x20*Duration*\x20-\x20','result','No\x20results\x20found!','json','sendMessage','results','\x0a┇🎛️\x20*Duration*\x20-\x20','../command','2088gekBZj','.song\x20<\x20Yt\x20url\x20or\x20Name\x20>','45610vxZEeQ','mp4','success','12907224fdgBPP','82720LxxoCH','>\x20*','title','audio/mpeg','ytdl','An\x20error\x20occurred.\x20Please\x20try\x20again\x20later.','ytdl1','url','\x0a┇🎸\x20*Author*\x20-\x20\x20','views','*\x0a>\x20🄿🄾🅆🄴🅁ED\x20BY\x20HASHAN-MD\x20🎵','\x0a┇⏳\x20*Link*\x20-\x20\x20','download_url','5kusTJV','main','video/mp4','timestamp','log','╭━━━〔\x20*HASHAN-MD*\x20〕━━━┈⊷\x0a┇🎤\x20*Title*\x20-\x20\x20','2384oITLdV','https://api.giftedtech.web.id/api/download/dlmp4?apikey=gifted&url=','3558UwURZT','Download\x20Youtube\x20song','status'];_0x1ecb=function(){return _0x2e30c0;};return _0x1ecb();}const config=require(_0x19b217(0xa1)),{cmd}=require(_0x19b217(0xb3)),{ytsearch,ytmp3,ytmp4}=require('@dark-yasiya/yt-dl.js');cmd({'pattern':'video','alias':[_0x19b217(0xbe),_0x19b217(0xb7)],'react':'🎥','desc':'Download\x20Youtube\x20song','category':_0x19b217(0xc8),'use':_0x19b217(0xb5),'filename':__filename},async(_0x559ccd,_0x4c08cb,_0x5a5ab3,{from:_0x18e61c,prefix:_0x73a137,quoted:_0x4a12fa,q:_0x22d220,reply:_0x4238af})=>{const _0x4f57df=_0x19b217;try{if(!_0x22d220)return await _0x4238af('Please\x20provide\x20a\x20YouTube\x20URL\x20or\x20song\x20name.');const _0x23281e=await ytsearch(_0x22d220);if(_0x23281e[_0x4f57df(0xb1)][_0x4f57df(0x9e)]<0x1)return _0x4238af(_0x4f57df(0xae));let _0x4c2d54=_0x23281e['results'][0x0],_0x484c85='https://api.giftedtech.web.id/api/download/dlmp4?apikey=gifted&url='+encodeURIComponent(_0x4c2d54['url']),_0x577aa0=await fetch(_0x484c85),_0x304d14=await _0x577aa0[_0x4f57df(0xaf)]();if(_0x304d14[_0x4f57df(0x99)]!==0xc8||!_0x304d14[_0x4f57df(0xb8)]||!_0x304d14[_0x4f57df(0xad)][_0x4f57df(0xc6)])return _0x4238af(_0x4f57df(0x9d));let _0x269287=_0x4f57df(0x9a)+_0x4c2d54['title']+_0x4f57df(0xb2)+_0x4c2d54[_0x4f57df(0xca)]+_0x4f57df(0xa6)+_0x4c2d54[_0x4f57df(0xc3)]+_0x4f57df(0xc2)+_0x4c2d54['author'][_0x4f57df(0xa9)]+'\x0a┇🔎\x20*Link*\x20-\x20\x20'+_0x4c2d54[_0x4f57df(0xc1)]+_0x4f57df(0xa3);await _0x559ccd[_0x4f57df(0xb0)](_0x18e61c,{'image':{'url':_0x304d14[_0x4f57df(0xad)][_0x4f57df(0xa7)]||''},'caption':_0x269287},{'quoted':_0x4c08cb}),await _0x559ccd[_0x4f57df(0xb0)](_0x18e61c,{'video':{'url':_0x304d14[_0x4f57df(0xad)]['download_url']},'mimetype':_0x4f57df(0xc9)},{'quoted':_0x4c08cb}),await _0x559ccd[_0x4f57df(0xb0)](_0x18e61c,{'document':{'url':_0x304d14[_0x4f57df(0xad)][_0x4f57df(0xc6)]},'mimetype':_0x4f57df(0xc9),'fileName':_0x304d14[_0x4f57df(0xad)]['title']+'.mp4','caption':_0x4f57df(0xbb)+_0x4c2d54[_0x4f57df(0xbc)]+'*\x0a>\x20POWERED\x20BY\x20HASHAN-MD\x20😈'},{'quoted':_0x4c08cb});}catch(_0x249c10){console['log'](_0x249c10),_0x4238af(_0x4f57df(0xbf));}}),cmd({'pattern':_0x19b217(0xa5),'alias':[_0x19b217(0xc0),'song2'],'react':'🎥','desc':_0x19b217(0x98),'category':_0x19b217(0xc8),'use':_0x19b217(0xb5),'filename':__filename},async(_0x49112b,_0x4e5d7d,_0x2635e0,{from:_0x57088e,prefix:_0x139341,quoted:_0xddf9fd,q:_0x526984,reply:_0x2faf28})=>{const _0x390fd6=_0x19b217;try{if(!_0x526984)return await _0x2faf28(_0x390fd6(0xa8));const _0x11589c=await ytsearch(_0x526984);if(_0x11589c['results'][_0x390fd6(0x9e)]<0x1)return _0x2faf28('No\x20results\x20found!');let _0x3e2a2b=_0x11589c[_0x390fd6(0xb1)][0x0],_0x468648=_0x390fd6(0x96)+encodeURIComponent(_0x3e2a2b[_0x390fd6(0xc1)]),_0x4418e6=await fetch(_0x468648),_0x28cb04=await _0x4418e6[_0x390fd6(0xaf)]();if(_0x28cb04[_0x390fd6(0x99)]!==0xc8||!_0x28cb04[_0x390fd6(0xb8)]||!_0x28cb04[_0x390fd6(0xad)][_0x390fd6(0xc6)])return _0x2faf28(_0x390fd6(0x9d));let _0x2e7f33=_0x390fd6(0xcc)+_0x3e2a2b[_0x390fd6(0xbc)]+_0x390fd6(0xac)+_0x3e2a2b[_0x390fd6(0xca)]+_0x390fd6(0xaa)+_0x3e2a2b[_0x390fd6(0xc3)]+_0x390fd6(0x9b)+_0x3e2a2b[_0x390fd6(0xab)][_0x390fd6(0xa9)]+_0x390fd6(0xc5)+_0x3e2a2b[_0x390fd6(0xc1)]+_0x390fd6(0xa0);await _0x49112b[_0x390fd6(0xb0)](_0x57088e,{'image':{'url':_0x28cb04[_0x390fd6(0xad)][_0x390fd6(0xa7)]||''},'caption':_0x2e7f33},{'quoted':_0x4e5d7d}),await _0x49112b[_0x390fd6(0xb0)](_0x57088e,{'audio':{'url':_0x28cb04[_0x390fd6(0xad)][_0x390fd6(0xc6)]},'mimetype':'audio/mpeg'},{'quoted':_0x4e5d7d}),await _0x49112b['sendMessage'](_0x57088e,{'document':{'url':_0x28cb04[_0x390fd6(0xad)][_0x390fd6(0xc6)]},'mimetype':_0x390fd6(0xbd),'fileName':_0x3e2a2b[_0x390fd6(0xbc)]+'.mp3','caption':_0x390fd6(0xbb)+_0x3e2a2b['title']+_0x390fd6(0xc4)},{'quoted':_0x4e5d7d});}catch(_0x2fa677){console[_0x390fd6(0xcb)](_0x2fa677),_0x2faf28(_0x390fd6(0xbf));}});
+const {
+  cmd
+} = require("../command");
+const {
+  ytsearch,
+  ytmp3,
+  ytmp4
+} = require('@dark-yasiya/yt-dl.js');
+cmd({
+  'pattern': 'video',
+  'alias': ["ytdl", "mp4"],
+  'react': '🎥',
+  'desc': "Download Youtube song",
+  'category': "main",
+  'use': ".song < Yt url or Name >",
+  'filename': __filename
+}, async (_0x559ccd, _0x4c08cb, _0x5a5ab3, {
+  from: _0x18e61c,
+  prefix: _0x73a137,
+  quoted: _0x4a12fa,
+  q: _0x22d220,
+  reply: _0x4238af
+}) => {
+  try {
+    if (!_0x22d220) {
+      return await _0x4238af("Please provide a YouTube URL or song name.");
+    }
+    const _0x23281e = await ytsearch(_0x22d220);
+    if (_0x23281e.results.length < 0x1) {
+      return _0x4238af("No results found!");
+    }
+    let _0x4c2d54 = _0x23281e.results[0x0];
+    let _0x484c85 = 'https://api.giftedtech.web.id/api/download/dlmp4?apikey=gifted&url=' + encodeURIComponent(_0x4c2d54.url);
+    let _0x577aa0 = await fetch(_0x484c85);
+    let _0x304d14 = await _0x577aa0.json();
+    if (_0x304d14.status !== 0xc8 || !_0x304d14.success || !_0x304d14.result.download_url) {
+      return _0x4238af("Failed to fetch the video. Please try again later.");
+    }
+    let _0x269287 = "╭━━━〔 *HASHAN-MD* 〕━━━┈⊷\n┇🎼 *Title* -  " + _0x4c2d54.title + "\n┇🎛️ *Duration* - " + _0x4c2d54.timestamp + "\n┇🎙️ *Views* -  " + _0x4c2d54.views + "\n┇🎸 *Author* -  " + _0x4c2d54.author.name + "\n┇🔎 *Link* -  " + _0x4c2d54.url + "\n╰────────────────┈⊷\n\n> POWERED BY HASHAN-MD 😈";
+    await _0x559ccd.sendMessage(_0x18e61c, {
+      'image': {
+        'url': _0x304d14.result.thumbnail || ''
+      },
+      'caption': _0x269287
+    }, {
+      'quoted': _0x4c08cb
+    });
+    await _0x559ccd.sendMessage(_0x18e61c, {
+      'video': {
+        'url': _0x304d14.result.download_url
+      },
+      'mimetype': "video/mp4"
+    }, {
+      'quoted': _0x4c08cb
+    });
+    await _0x559ccd.sendMessage(_0x18e61c, {
+      'document': {
+        'url': _0x304d14.result.download_url
+      },
+      'mimetype': "video/mp4",
+      'fileName': _0x304d14.result.title + '.mp4',
+      'caption': "> *" + _0x4c2d54.title + "*\n> POWERED BY HASHAN-MD 😈"
+    }, {
+      'quoted': _0x4c08cb
+    });
+  } catch (_0x249c10) {
+    console.log(_0x249c10);
+    _0x4238af("An error occurred. Please try again later.");
+  }
+});
+cmd({
+  'pattern': "song2",
+  'alias': ["ytdl1", 'song2'],
+  'react': '🎥',
+  'desc': "Download Youtube song",
+  'category': "main",
+  'use': ".song < Yt url or Name >",
+  'filename': __filename
+}, async (_0x49112b, _0x4e5d7d, _0x2635e0, {
+  from: _0x57088e,
+  prefix: _0x139341,
+  quoted: _0xddf9fd,
+  q: _0x526984,
+  reply: _0x2faf28
+}) => {
+  try {
+    if (!_0x526984) {
+      return await _0x2faf28("Please provide a YouTube URL or song name.");
+    }
+    const _0x11589c = await ytsearch(_0x526984);
+    if (_0x11589c.results.length < 0x1) {
+      return _0x2faf28("No results found!");
+    }
+    let _0x3e2a2b = _0x11589c.results[0x0];
+    let _0x468648 = "https://api.giftedtech.web.id/api/download/dlmp4?apikey=gifted&url=" + encodeURIComponent(_0x3e2a2b.url);
+    let _0x4418e6 = await fetch(_0x468648);
+    let _0x28cb04 = await _0x4418e6.json();
+    if (_0x28cb04.status !== 0xc8 || !_0x28cb04.success || !_0x28cb04.result.download_url) {
+      return _0x2faf28("Failed to fetch the video. Please try again later.");
+    }
+    let _0x2e7f33 = "╭━━━〔 *HASHAN-MD* 〕━━━┈⊷\n┇🎤 *Title* -  " + _0x3e2a2b.title + "\n┇💐 *Duration* - " + _0x3e2a2b.timestamp + "\n┇🎈 *Views* -  " + _0x3e2a2b.views + "\n┇🗿 *Author* -  " + _0x3e2a2b.author.name + "\n┇⏳ *Link* -  " + _0x3e2a2b.url + "\n╰────────────────┈⊷\n\n> 🄿🄾🅆🄴RED BY HASHAN-MD 😈";
+    await _0x49112b.sendMessage(_0x57088e, {
+      'image': {
+        'url': _0x28cb04.result.thumbnail || ''
+      },
+      'caption': _0x2e7f33
+    }, {
+      'quoted': _0x4e5d7d
+    });
+    await _0x49112b.sendMessage(_0x57088e, {
+      'audio': {
+        'url': _0x28cb04.result.download_url
+      },
+      'mimetype': 'audio/mpeg'
+    }, {
+      'quoted': _0x4e5d7d
+    });
+    await _0x49112b.sendMessage(_0x57088e, {
+      'document': {
+        'url': _0x28cb04.result.download_url
+      },
+      'mimetype': "audio/mpeg",
+      'fileName': _0x3e2a2b.title + '.mp3',
+      'caption': "> *" + _0x3e2a2b.title + "*\n> 🄿🄾🅆🄴🅁ED BY HASHAN-MD 🎵"
+    }, {
+      'quoted': _0x4e5d7d
+    });
+  } catch (_0x2fa677) {
+    console.log(_0x2fa677);
+    _0x2faf28("An error occurred. Please try again later.");
+  }
+});
