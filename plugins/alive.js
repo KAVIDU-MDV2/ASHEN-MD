@@ -11,7 +11,7 @@ cmd({
   'alias': ['status', 'uptime'],
   'desc': "Check uptime and system status",
   'category': "main",
-  'react': '👋',
+  'react': '🤖',
   'filename': __filename
 }, async (_0x2cd91f, _0x3493bf, _0x4166d2, {
   from: _0x409dd5,
@@ -39,10 +39,10 @@ cmd({
 }) => {
   try {
     const _0x42f85c = _0x5aa996 || 'මිත්‍රයා';
-    const _0x349928 = "> *👋 ʜᴇʟʟᴏ.." + _0x42f85c + ", HASHAN-MD ɪs ᴀʟɪᴠᴇ ɴᴏᴡ !! 🧸*\n\n*ʜᴇʟʟᴏ 👋 , ɪᴍ HASHAN-MD !! ʜᴏᴡ ᴄᴀɴ ɪ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏᴅᴀʏ 😊*\n\n> *💤 ᴠᴇʀsɪᴏɴ  :* 0.0.1 ᴠ \n> *✨ ʜᴏsᴛ    :* " + os.hostname() + "\n> *⏰ ᴜᴘᴛɪᴍᴇ  :* " + runtime(process.uptime()) + "\n> *📶 ᴍᴇᴍᴏʀʏ   :* " + (process.memoryUsage().heapUsed / 0x400 / 0x400).toFixed(0x2) + "MB / " + (os.totalmem() / 0x400 / 0x400).toFixed(0x2) + "MB\n\n\n> *© POWERED BY HASHAN-MD 🤍*";
+    const _0x349928 = "> *👋 ʜᴇʟʟᴏ.." + _0x42f85c + ", ASHEN-MD ɪs ᴀʟɪᴠᴇ ɴᴏᴡ !! 🧸*\n\n*ʜᴇʟʟᴏ 👋 , ɪᴍ HASHAN-MD !! ʜᴏᴡ ᴄᴀɴ ɪ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏᴅᴀʏ 😊*\n\n> *💤 ᴠᴇʀsɪᴏɴ  :* 0.0.1 ᴠ \n> *✨ ʜᴏsᴛ    :* " + os.hostname() + "\n> *⏰ ᴜᴘᴛɪᴍᴇ  :* " + runtime(process.uptime()) + "\n> *📶 ᴍᴇᴍᴏʀʏ   :* " + (process.memoryUsage().heapUsed / 0x400 / 0x400).toFixed(0x2) + "MB / " + (os.totalmem() / 0x400 / 0x400).toFixed(0x2) + "MB\n\n\n> *© POWERED BY HASHAN-MD 🤍*";
     await _0x2cd91f.sendMessage(_0x409dd5, {
       'image': {
-        'url': "https://i.ibb.co/bM84Dvjr/8db52e2fa48322a6.jpg"
+        'url': "https://i.ibb.co/1tKRfWQB/1af47eb53d341e34.jpg"
       },
       'caption': _0x349928,
       'contextInfo': {
@@ -51,7 +51,7 @@ cmd({
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
           'newsletterJid': "120363395674230271@newsletter",
-          'newsletterName': "HASHAN-MD-V1",
+          'newsletterName': "ASHEN-MD-V1",
           'serverMessageId': 0x8f
         }
       }
