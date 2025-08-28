@@ -50,7 +50,7 @@ cmd({
         'forwardingScore': 0x3e7,
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
-          'newsletterJid': "120363395674230271@newsletter",
+          'newsletterJid': "120363420865396417@newsletter",
           'newsletterName': "ASHEN-MD-V1",
           'serverMessageId': 0x8f
         }
